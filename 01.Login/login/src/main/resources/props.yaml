@@ -1,0 +1,5 @@
+exeDir: C:\eFriend Expert\efriendexpert\efriendexpert.exe
+#exeDir: schtasks /run /tn "efriendexpert"
+loginInfoDir: C:\secret\info
+pbUserKey: moneymaker123456
+defaultIV: 1234567890123456
