@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="login" />
+        <module name="login_java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="login" target="8" />
+      <module name="login_java" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
